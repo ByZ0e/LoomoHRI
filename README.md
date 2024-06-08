@@ -15,7 +15,7 @@ npm i Loomo-Front-End --save
 Get SG results like 'localmode_locobot_output'.
 Run scripts in 'script' to get all related caption & VQA files.
 - SG_convert: get annotation files & caption files.
-- QA_generator; get QA files.
+- QA_generator: get QA files.
 
 ### Start
 ```
