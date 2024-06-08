@@ -1,0 +1,1 @@
+ffmpeg -r 1 -i '../localmode_locobot_output-1/keyFrames/keyframe_%03d.jpg' output.mp4
