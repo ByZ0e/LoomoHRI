@@ -1,7 +1,12 @@
 # LoomoHRI
 A react based web demo for Loomo Human-Robot-Interaction(HRI)
 
-<video src="https://github.com/user-attachments/assets/25b6a556-474a-4b33-8ff8-460107a695cb"/>
+Top: Caption and VQA tasks based on the RGB-D video streams observed by Loomo.
+
+Bottom: Visual Grounding task based on the reconstructed 3D scene.
+
+https://github.com/user-attachments/assets/25b6a556-474a-4b33-8ff8-460107a695cb
+
 
 ## Quick Start
 
