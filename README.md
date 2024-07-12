@@ -1,6 +1,8 @@
 # LoomoHRI
 A react based web demo for Loomo Human-Robot-Interaction(HRI)
 
+<video src="https://github.com/user-attachments/assets/25b6a556-474a-4b33-8ff8-460107a695cb"/>
+
 ## Quick Start
 
 ### Installation
